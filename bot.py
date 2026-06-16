@@ -9,7 +9,7 @@ from telegram.ext import (
 )
 
 # ─── CONFIG ───────────────────────────────────────────────────────────────────
-BOT_TOKEN = "8583044644:AAHMJIZY7wWfDUlRw6jNPB78oCcs3kK3V5w"
+BOT_TOKEN = "8583044644:AAFJzSMSi7nW8cHqs3NRHgKSwLukX9oAEi0"
 ADMIN_ID = 5989298023
 CHANNEL_URL = "https://t.me/tunnelyconfig"
 CARD_NUMBER = "5022291506942869"
